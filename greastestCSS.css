@@ -1,1 +1,5 @@
-My CSS it greastest on de woarldz
+#ranbow {
+    height: 50px;
+    background-color: purple;
+    background-image: linear-gradient(90deg, purple, green);
+}
